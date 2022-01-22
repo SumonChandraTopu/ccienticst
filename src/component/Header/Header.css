@@ -1,0 +1,52 @@
+
+
+
+
+.header{
+    padding: 3rem 0;
+    font-family:monospace;
+}
+.header span{
+    color: lightgreen;
+}
+.header h1,h3,h4{
+    width: 70%;
+    margin: 0 auto;
+}
+.header h1{
+    font-size: 4rem;
+    font-family: 'Acme', sans-serif;
+}
+.header h3{
+    font-size: 1.2rem;
+    padding: 1rem 0;
+}
+
+.header h4{
+    font-size: 2rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

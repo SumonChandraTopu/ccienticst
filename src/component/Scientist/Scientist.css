@@ -1,0 +1,59 @@
+
+
+.img{
+    height: 25rem;
+    width: 100%;
+    border-radius: 1rem 1rem 0 0;
+}
+
+.scientist{
+    background-color: #ffffff;
+    height: 47rem;
+    width: 25rem;
+    border-radius: 1rem;
+}
+
+.scientist-detail{
+    text-align: start;
+    line-height: 1.7rem;
+}
+.scientist-detail h4{
+    font-size: 1.2rem;
+    margin: 0;
+    color: #1f0035;
+}
+.scientist-detail h5{
+    font-size: 1rem;
+    padding: .3rem 0;
+    margin: 0;
+}
+.scientist-detail p{
+    margin: 0;
+    padding: 0;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+small{
+    color: #777777;
+}
+span{
+    color: #22142c;
+    font-weight: 600;
+}
+.social-icon{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.social-icon img{
+    cursor: pointer;
+}
+
+
+
+
+
+

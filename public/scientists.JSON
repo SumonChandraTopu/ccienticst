@@ -1,0 +1,101 @@
+[
+    {
+        "key": "B002RL8IYK",
+        "name": "Tedros Adhanom Ghebreyesus", 
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Mukhisa_Kituyi%2C_Houlin_Zhao%2C_Tedros_Adhanom_Ghebreyesus_with_Sophia_-_AI_for_Good_Global_Summit_2018_%2841223188035%29_%28cropped%29.jpg",
+        "role": "Warning the world",
+        "by": "SMRITI MALLAPATY",
+        "complement": "The public-health leader faced challenges from all sides in trying to rally the globe against COVID-19.",
+        "salary": "504900",
+        "age": "45"
+    },
+    
+    {
+        "key": "B112RL8IYK",
+        "name": "Verena Mohaupt", 
+        "img": "https://mosaic-expedition.org/wp-content/uploads/2021/02/verena_mohaupt_estherhorvath_900px-e1613386224659.jpg",
+        "role": "Polar patroller",
+        "by": "SMRITI MALLAPATY",
+        "complement": "The public-health leader faced challenges from all sides in trying to rally the globe against COVID-19.",
+        "salary": "501000",
+        "age": "34"
+    },
+    
+    {
+        "key": "B332RL8IYK",
+        "name": "Gonzalo Moratorio", 
+        "img": "https://m.prensa-latina.cu/wp-content/uploads/2021/02/blogmedia-gonzalo-moratorio.jpg",
+        "role": "Coronavirus hunter",
+        "by": "EMILIANO RODRÍGUEZ MEGA",
+        "complement": "A virologist aided Uruguay’s successful response to the new coronavirus.",
+        "salary": "304900",
+        "age": "40"
+    },
+    
+    {
+        "key": "B442RL8IYK",
+        "name": "Adi Utarini", 
+        "img": "https://disk.mediaindonesia.com/thumbs/600x400/news/2020/12/6a316e5f25cda598afd9bdb41757decc.jpg",
+        "role": "Mosquito commander",
+        "by": "NISHA GAIND",
+        "complement": "A public-health researcher led a pioneering trial of a technology that could help to eliminate dengue fever.",
+        "salary": "54900",
+        "age": "43"
+    },
+    
+    {
+        "key": "B552RL8IYK",
+        "name": "Kathrin Jansen", 
+        "img": "https://www.ifpma.org/wp-content/uploads/2014/03/Kathrin-Jansen.jpg",
+        "role": "Vaccine leader",
+        "by": "ELIE DOLGIN",
+        "complement": "This executive managed one of several lightning-speed efforts to successfully develop a COVID-19 vaccine.",
+        "salary": "404900",
+        "age": "48"
+    },
+    
+    {
+        "key": "B662RL8IYK",
+        "name": "Zhang Yongzhen", 
+        "img": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F648afdb0-6cbd-11eb-acad-72136628cce4.jpg?crop=604%2C403%2C0%2C0",
+        "role": "Genome sharer",
+        "by": "DAVID CYRANOSKI",
+        "complement": "This scientist and his team posted the coronavirus’s RNA sequence online before anyone else.",
+        "salary": "804900",
+        "age": "49"
+    },
+    
+    {
+        "key": "B772RL8IYK",
+        "name": "Chanda Prescod-Weinstein", 
+        "img": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2019/08/Prescod-Weinstein_Chanda-520x520.jpg",
+        "role": "A force in physics",
+        "by": "NIDHI SUBBARAMAN",
+        "complement": "A cosmologist pursues the nature of dark matter while also confronting racism in science and society.",
+        "salary": "344900",
+        "age": "30"
+    },
+    
+    {
+        "key": "B882RL8IYK",
+        "name": "Li Lanjuan", 
+        "img": "https://www.zju.edu.cn/_upload/article/images/9f/03/5ee0e7e14b2f8c269670c18faa3f/ed07d8af-bf88-46a9-a2c8-b872667515f2.jpg",
+        "role": "Lockdown architect",
+        "by": "DAVID CYRANOSKI",
+        "complement": "This epidemiologist advised shutting down Wuhan to control the earliest COVID-19 outbreak.",
+        "salary": "524900",
+        "age": "50"
+    },
+    
+    {
+        "key": "B992RL8IYK",
+        "name": "Jacinda Ardern", 
+        "img": "https://ichef.bbci.co.uk/news/1024/branded_news/1382C/production/_97861997_gettyimages-829569072.jpg",
+        "role": "Crisis leader",
+        "by": "DYANI LEWIS",
+        "complement": "New Zealand’s prime minister won praise for effective action during the pandemic.",
+        "salary": "804900",
+        "age": "45"
+    }
+    
+]
